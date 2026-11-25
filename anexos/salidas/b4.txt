@@ -1,0 +1,6 @@
+Número de matrices: 225
+Forma de T: (15, 15, 3, 3)
+Matriz en una posición:
+[[1.   0.   0.  ]
+ [0.   2.97 0.  ]
+ [0.   0.   0.6 ]]

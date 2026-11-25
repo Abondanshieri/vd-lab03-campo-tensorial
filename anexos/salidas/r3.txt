@@ -1,0 +1,2 @@
+Paso 2: separación = 0.571 | ancho máx. = 0.57 | elipses más anchas que la separación: 0 de 64
+Paso 1: separación = 0.286 | ancho máx. = 0.57 | elipses más anchas que la separación: 108 de 225

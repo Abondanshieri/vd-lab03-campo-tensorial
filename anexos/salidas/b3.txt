@@ -1,0 +1,3 @@
+Autovalores: [2. 2. 2.] MD: 2.0 FA: 0.0
+Autovalores: [3.  1.5 0.5] MD: 1.667 FA: 0.643
+Autovalores: [4. 0. 0.] MD: 1.333 FA: 1.0

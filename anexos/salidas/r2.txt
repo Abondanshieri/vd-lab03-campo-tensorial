@@ -1,0 +1,4 @@
+¿amp=2 reproduce el bloque 5? True
+amp=2: MD 0.87-1.53 | FA 0.26-0.69 | autovalor mayor máx. 3.00 | ancho máx. de elipse 0.57
+amp=3: MD 0.87-1.87 | FA 0.26-0.77 | autovalor mayor máx. 4.00 | ancho máx. de elipse 0.76
+Separación entre elipses dibujadas (paso 2): 0.571

@@ -1,0 +1,6 @@
+Matriz A:
+[[3.  0.  0. ]
+ [0.  1.5 0. ]
+ [0.  0.  0.5]]
+Dimensiones de A: (3, 3)
+Componente X-X: 3.0
