@@ -15,7 +15,7 @@ Se construyó un campo de 15 × 15 tensores simétricos de 3 × 3 (`T.shape = (1
 | `src/LAB_03_Arela_Mamani_Franco.py` | El mismo código en texto plano |
 | `anexos/figuras/` | 4 figuras PNG extraídas del cuaderno |
 | `anexos/salidas/` | Salidas de consola de cada bloque |
-| `informe/` | Informe del laboratorio en `.docx` y `.pdf` |
+| `informe/` | Informe del laboratorio en PDF |
 
 ## Cómo reproducirlo
 

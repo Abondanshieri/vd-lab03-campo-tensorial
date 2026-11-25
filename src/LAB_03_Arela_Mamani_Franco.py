@@ -205,7 +205,7 @@ def glifos(ax, ww, vv, paso=2):
 w2, v2, MD2, FA2 = campo_tensorial(2)
 print("¿amp=2 reproduce el bloque 5?", np.allclose(MD2, MD) and np.allclose(FA2, FA))
 
-fig, axes = plt.subplots(2, 3, figsize=(14, 8.5))
+fig, axes = plt.subplots(2, 3, figsize=(10.5, 6.4))
 for fila, amp in enumerate([2, 3]):
     ww, vv, md, fa = campo_tensorial(amp)
     print(f"amp={amp}: MD {md.min():.2f}-{md.max():.2f} | FA {fa.min():.2f}-{fa.max():.2f} | "
